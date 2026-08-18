@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TwitterFalso</string>
+    <string name="welcome_message">Bienvenido a %1$s</string>
+    <string name="logo_twitter_description">Logo de Twitter</string>
+    <string name="login_button_text">Iniciar sesión</string>
+    <string name="create_account_button_text">Crear cuenta</string>
+    <string name="facebook_description">Facebook</string>
+    <string name="google_description">Google</string>
+    <string name="github_description">GitHub</string>
+    <string name="instagram_description">Instagram</string>
+    <string name="background_description">Fondo de pantalla</string>
+    <string name="rights_reserved_text">Twitter all rights reserved</string>
+    <string name="nombre_de_usuario">Nombre de usuario</string>
+    <string name="correo_electr_nico">Correo electrónico</string>
+    <string name="contrase_a">contraseña</string>
+    <string name="mostrat_contrase_a">Mostrar contraseña</string>
+    <string name="registrar">Registrar</string>
+</resources>
